@@ -1,0 +1,15 @@
+input {
+    outline: none;
+    background: none;
+    border: 1px solid var(--secondry-color);
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    margin-left: 30px;
+    width: 400px;
+    color: var(--white-color);
+  }
+
+button :hover{
+  color: blue;
+}
